@@ -1,3 +1,3 @@
 # mi-html-css-preppuppgift
 Preppuppgift för CSS &amp; HTML kursen
-Hej
+Hej I somras tog jag studenten!
